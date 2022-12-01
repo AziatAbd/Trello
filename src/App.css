@@ -1,0 +1,12 @@
+body {
+  /* display: flex; */
+  align-items: center;
+  box-sizing: border-box;
+  padding: 0;
+  background-image: url(https://blog.trello.com/hubfs/download%20%288%29.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+}
