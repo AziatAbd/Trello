@@ -20,7 +20,7 @@ const SignUp = () => {
             token: user.accessToken,
           })
         );
-        push("/");
+        push("/Trello");
       })
       .catch(console.error);
   };

@@ -7,7 +7,7 @@ import RegisterPage from "./components/pages/RegisterPage";
 function App() {
   return (
     <Routes>
-      <Route path="/" element={<HomePage />} />
+      <Route path="/Trello" element={<HomePage />} />
       <Route path="/login" element={<LoginPage/>} />
       <Route path="/register" element={<RegisterPage/>} />
     </Routes>

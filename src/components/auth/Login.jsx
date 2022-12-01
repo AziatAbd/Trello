@@ -20,7 +20,7 @@ const Login = () => {
             token: user.accessToken,
           })
         );
-        push("/");
+        push("/Trello");
       })
       .catch(() => alert("Invalid user!"));
   };
